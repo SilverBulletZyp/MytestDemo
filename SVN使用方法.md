@@ -86,11 +86,12 @@ svn ci -m "注释"
 ```
 svn update
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> NewMaster
 7.svn帮助
 
 ```
 svn help
 ```
-# 其他教程
-* [svn配置大全]<http://www.cnblogs.com/armyfai/p/3985660.html>
