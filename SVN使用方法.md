@@ -87,7 +87,7 @@ svn ci -m "注释"
 svn update
 ```
 
-6.svn帮助.
+7.svn帮助.
 
 ```
 svn help
