@@ -92,3 +92,5 @@ svn update
 ```
 svn help
 ```
+# 其他教程
+* [svn配置大全]<http://www.cnblogs.com/armyfai/p/3985660.html>
