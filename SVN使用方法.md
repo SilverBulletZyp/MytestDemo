@@ -86,10 +86,6 @@ svn ci -m "注释"
 ```
 svn update
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> NewMaster
 7.svn帮助
 
 ```
