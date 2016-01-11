@@ -1,14 +1,15 @@
 # 配置SVN用户权限
+
 主要是修改/svn/mycode/conf目录下的三个文件
 
 1.打开svnserve.conf，将下列配置项前面的#和空格都去掉
 
 ```
-\# anon-access = read
-\# auth-access = write  
+# anon-access = read
+# auth-access = write  
   
-\# password-db = passwd  
-\# authz-db = authz  
+# password-db = passwd  
+# authz-db = authz  
 ```
 anon-access = read代表匿名访问的时候是只读的，若改为anon-access = none代表禁止匿名访问，需要帐号密码才能访问
 
