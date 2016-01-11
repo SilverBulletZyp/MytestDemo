@@ -83,6 +83,7 @@ Welcome to Git@OSC, yourname!
 git clone --bare  https://github.com/bartaz/impress.js.git
 ```
 2.Git@OSC上创建项目
+
 3.以镜像的方式把clone的项目push到Git@OSC上，若提示输入git用户密码，则去http://git.oschina.net/keys 添加 SSH Key
 
 ```
