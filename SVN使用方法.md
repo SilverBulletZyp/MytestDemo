@@ -87,7 +87,11 @@ svn ci -m "注释"
 svn update
 ```
 
+<<<<<<< HEAD
 7.svn帮助.
+=======
+6.svn帮助
+>>>>>>> 8d181ca2e1ff98de7ae2f7de45fe1fe2691c3945
 
 ```
 svn help
